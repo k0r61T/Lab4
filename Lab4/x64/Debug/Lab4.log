@@ -1,0 +1,7 @@
+﻿  Lab4.c
+C:\Users\Ярослав\Desktop\Новая папка\Lab4\Lab4\Lab4.c(55,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ярослав\Desktop\Новая папка\Lab4\Lab4\Lab4.c(110,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Ярослав\Desktop\Новая папка\Lab4\Lab4\Lab4.c(71,1): warning C4716: Lab4_z2_6: должна возвращать значение
+C:\Users\Ярослав\Desktop\Новая папка\Lab4\Lab4\Lab4.c(97,1): warning C4716: Lab4_z1b: должна возвращать значение
+C:\Users\Ярослав\Desktop\Новая папка\Lab4\Lab4\Lab4.c(45,1): warning C4716: Lab4_z1: должна возвращать значение
+  Lab4.vcxproj -> C:\Users\Ярослав\Desktop\Новая папка\Lab4\x64\Debug\Lab4.exe
